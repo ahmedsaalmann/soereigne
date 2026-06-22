@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Medical RAG",
+  "description": "An advanced medical AI agent utilizing Retrieval-Augmented Generation (RAG) on official GALE medical literature and real-time DuckDuckGo Web Grounding.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
